@@ -4,12 +4,12 @@
  - Bardales Alcantara Zulema Remine (Grupo 6)
 Bienvenidos al repositorio de nuestro equipo del curso: "Fundamentos de Biodiseño"
 # Tabla de contenido
-- Informacion del paciente
-- lluvia de ideas
-- materiales
-### Información del paciente
+- [Información](Información)
+- [Ideas](Ideas)
+- [Materiales](Materiales)
+### Información
 ...
-### Lluvia de ideas
+### Ideas
 ...
 ### Materiales
 ...
