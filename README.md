@@ -4,14 +4,14 @@
  - Bardales Alcantara Zulema Remine (Grupo 6)
 Bienvenidos al repositorio de nuestro equipo del curso: "Fundamentos de Biodiseño"
 # Tabla de contenido
-- [Información](Información)
-- [Ideas](Ideas)
-- [Materiales](Materiales)
-### Información
+- [Información](#id1)
+- [Ideas](#id2)
+- [Materiales](#id3)
+## Información<a name="id1"></a>
 ...
-### Ideas
+## Ideas<a name="id2"></a>
 ...
-### Materiales
+## Materiales<a name="id3"></a>
 ...
 # Colaboradores 
 Miembros:
